@@ -1,0 +1,16 @@
+
+build/
+dist/
+wheels/
+.venv
+.env
+__pycache__/
+*.py[oc]
+*.egg-info
+
+.chroma_db/
+env/
+runs/
+tribal_metrics*
+export_csv.py
+*_*.md

@@ -1,0 +1,1 @@
+# Culture module initialization
